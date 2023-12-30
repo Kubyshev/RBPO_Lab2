@@ -30,6 +30,7 @@ int main()
         RBPO::Lab2::Variant9::Task1::fun2(x);
         RBPO::Lab2::Variant9::Task1::fun3(n);
         RBPO::Lab2::Variant9::Task1::fun4(e);
+        std::cout << "=======================" << std::endl;
         break;
     }
     case 2: {
@@ -39,6 +40,7 @@ int main()
         RBPO::Lab2::Variant9::Task2::fun2(x);
         RBPO::Lab2::Variant9::Task2::fun3(n);
         RBPO::Lab2::Variant9::Task2::fun4(e);
+        std::cout << "======================="<<std::endl;
         break;
     }
     case 3: {
@@ -48,6 +50,7 @@ int main()
         RBPO::Lab2::Variant9::Task3::fun2(x);
         RBPO::Lab2::Variant9::Task3::fun3(n);
         RBPO::Lab2::Variant9::Task3::fun4(e);
+        std::cout << "=======================" << std::endl;
         break;
     }
     case 4: {
@@ -57,6 +60,7 @@ int main()
         RBPO::Lab2::Variant9::Task4::fun2(x);
         RBPO::Lab2::Variant9::Task4::fun3(n);
         RBPO::Lab2::Variant9::Task4::fun4(e);
+        std::cout << "=======================" << std::endl;
         break;
     }
     case 5: {
@@ -66,6 +70,7 @@ int main()
         RBPO::Lab2::Variant9::Task5::fun2(x);
         RBPO::Lab2::Variant9::Task5::fun3(n);
         RBPO::Lab2::Variant9::Task5::fun4(e);
+        std::cout << "=======================" << std::endl;
         break;
     }
           
