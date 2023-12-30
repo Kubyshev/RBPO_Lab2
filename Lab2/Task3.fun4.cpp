@@ -2,10 +2,10 @@
 #include <iostream>
 module student_1bib21046.Lab2.Variant9.Task3;
 
-void RBPO::Lab2::Variant9::Task3::fun4() {
-    std::cout << "vvod e ";
+void RBPO::Lab2::Variant9::Task3::fun4(double e) {
+    /*std::cout << "vvod e ";
     double e;
-    std::cin >> e;
+    std::cin >> e;*/
     double sum = 0.0;
     int i = 0;
     do {
