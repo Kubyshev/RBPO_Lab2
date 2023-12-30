@@ -141,15 +141,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Task1\Task1.ixx" />
+    <ClCompile Include="Task1\student_1bib21046.Lab2.Variant9.Task1.ixx" />
     <ClCompile Include="Task2\Task2.cpp" />
-    <ClCompile Include="Task2\Task2.ixx" />
+    <ClCompile Include="Task2\student_1bib21046.Lab2.Variant9.Task2.ixx" />
     <ClCompile Include="Task3\Task3.fun1.cpp" />
     <ClCompile Include="Task3\Task3.fun2.cpp" />
     <ClCompile Include="Task3\Task3.fun3.cpp" />
     <ClCompile Include="Task3\Task3.fun4.cpp" />
     <ClCompile Include="Task3\Task3.funA.cpp" />
-    <ClCompile Include="Task3\Task3.ixx" />
+    <ClCompile Include="Task3\student_1bib21046.Lab2.Variant9.Task3.ixx" />
     <ClCompile Include="Task4\fun1.cpp" />
     <ClCompile Include="Task4\fun1.ixx" />
     <ClCompile Include="Task4\fun2.cpp" />
@@ -160,8 +160,8 @@
     <ClCompile Include="Task4\fun4.ixx" />
     <ClCompile Include="Task4\funA.cpp" />
     <ClCompile Include="Task4\funA.ixx" />
-    <ClCompile Include="Task4\Task4.ixx" />
-    <ClCompile Include="Task5\Task5.ixx" />
+    <ClCompile Include="Task4\student_1bib21046.Lab2.Variant9.Task4.ixx" />
+    <ClCompile Include="Task5\student_1bib21046.Lab2.Variant9.Task5.ixx" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
