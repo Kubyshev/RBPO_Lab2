@@ -150,7 +150,7 @@
     <ClCompile Include="fun4.ixx" />
     <ClCompile Include="funA.cpp" />
     <ClCompile Include="funA.ixx" />
-    <ClCompile Include="Lab2.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="Task1.ixx" />
     <ClCompile Include="Task2.cpp" />
     <ClCompile Include="Task2.ixx" />
