@@ -140,28 +140,28 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="fun1.cpp" />
-    <ClCompile Include="fun1.ixx" />
-    <ClCompile Include="fun2.cpp" />
-    <ClCompile Include="fun2.ixx" />
-    <ClCompile Include="fun3.cpp" />
-    <ClCompile Include="fun3.ixx" />
-    <ClCompile Include="fun4.cpp" />
-    <ClCompile Include="fun4.ixx" />
-    <ClCompile Include="funA.cpp" />
-    <ClCompile Include="funA.ixx" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Task1.ixx" />
-    <ClCompile Include="Task2.cpp" />
-    <ClCompile Include="Task2.ixx" />
-    <ClCompile Include="Task3.fun1.cpp" />
-    <ClCompile Include="Task3.fun2.cpp" />
-    <ClCompile Include="Task3.fun3.cpp" />
-    <ClCompile Include="Task3.fun4.cpp" />
-    <ClCompile Include="Task3.funA.cpp" />
-    <ClCompile Include="Task3.ixx" />
-    <ClCompile Include="Task4.ixx" />
-    <ClCompile Include="Task5.ixx" />
+    <ClCompile Include="Task1\Task1.ixx" />
+    <ClCompile Include="Task2\Task2.cpp" />
+    <ClCompile Include="Task2\Task2.ixx" />
+    <ClCompile Include="Task3\Task3.fun1.cpp" />
+    <ClCompile Include="Task3\Task3.fun2.cpp" />
+    <ClCompile Include="Task3\Task3.fun3.cpp" />
+    <ClCompile Include="Task3\Task3.fun4.cpp" />
+    <ClCompile Include="Task3\Task3.funA.cpp" />
+    <ClCompile Include="Task3\Task3.ixx" />
+    <ClCompile Include="Task4\fun1.cpp" />
+    <ClCompile Include="Task4\fun1.ixx" />
+    <ClCompile Include="Task4\fun2.cpp" />
+    <ClCompile Include="Task4\fun2.ixx" />
+    <ClCompile Include="Task4\fun3.cpp" />
+    <ClCompile Include="Task4\fun3.ixx" />
+    <ClCompile Include="Task4\fun4.cpp" />
+    <ClCompile Include="Task4\fun4.ixx" />
+    <ClCompile Include="Task4\funA.cpp" />
+    <ClCompile Include="Task4\funA.ixx" />
+    <ClCompile Include="Task4\Task4.ixx" />
+    <ClCompile Include="Task5\Task5.ixx" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
